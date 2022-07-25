@@ -1,8 +1,8 @@
 Hello, I'm Eder Pagliotto.
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/ederpagliotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederpagliotto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederpagliotto&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederpagliotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederpagliotto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -17,7 +17,4 @@ Hello, I'm Eder Pagliotto.
   <a href="https://instagram.com/ederpagliotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ederpagliotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ederpagliotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <div align="center"><br>
-   ![Snake animation](https://github.com/ederpagliotto/ederpagliotto/blob/output/github-contribution-grid-snake.svg)
-   </div> 
 </div> 
